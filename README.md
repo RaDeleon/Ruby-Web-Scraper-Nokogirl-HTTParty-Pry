@@ -4,6 +4,6 @@
 
  
 #Install dependencies before running script
-## gem install pry 
-## gem install Nokogirl
-## gem install httparty
+* gem install pry 
+* gem install Nokogirl
+* gem install httparty
